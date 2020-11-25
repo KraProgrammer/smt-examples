@@ -9,7 +9,6 @@ This repo contains a couple of small examples of what SMT solver can be used for
 ## Setup Python environment with CLI
 
 ```powershell
-python -m pip install --upgrade pip
 python -m venv <venv_name>
 .\<venv_name>\Scripts\activate
 python -m pip install -r requirements.txt
